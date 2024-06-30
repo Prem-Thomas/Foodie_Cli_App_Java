@@ -16,7 +16,7 @@ To install and run the Restaurant CLI Application, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/madhusamala-dev/foodie-cli-java.git
+   git clone https://github.com/Prem-Thomas/Foodie_Cli_App_Java.git
     ```
 2. **CD into the application folder**
    ```bash
